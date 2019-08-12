@@ -1,10 +1,15 @@
 package guru.i2i.git;
 
 public class HelloGit {
+	
+	private String firstName;
+	private String lastName;
+	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+      HelloGit helloGit =new HelloGit();
+      
 	}
 
 }
